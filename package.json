@@ -1,0 +1,26 @@
+{
+  "name": "@steadysh/steady",
+  "version": "0.0.0-semantically-released",
+  "description": "a simple cross-platform shell",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/steadysh/steady.git"
+  },
+  "keywords": [
+    "cross-platform",
+    "shell",
+    "typescript",
+    "nodejs",
+    "python"
+  ],
+  "author": "Eliot Lim",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/steadysh/steady/issues"
+  },
+  "homepage": "https://github.com/steadysh/steady#readme"
+}
